@@ -38,38 +38,6 @@
 
 ---
 
-## 📂 Избранные проекты
-
-<p align="center">
-  <a href="https://github.com/reader2k24/ANSIBLE-SERVERS-ADMINSTRATION">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reader2k24&repo=ANSIBLE-SERVERS-ADMINSTRATION&theme=dracula" alt="Проект 1">
-  </a>
-  <a href="https://github.com/reader2k24/LINUX-and-DEVOPS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reader2k24&repo=LINUX-and-DEVOPS&theme=dracula" alt="Проект 2">
-  </a>
-  <a href="https://github.com/reader2k24/K8S-HELM-LINK-SHORTENER">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reader2k24&repo=K8S-HELM-LINK-SHORTENER&theme=dracula" alt="Проект 3">
-  </a>
-  <a href="https://github.com/reader2k24/OPENSSL3-and-PYTHON">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reader2k24&repo=OPENSSL3-and-PYTHON&theme=dracula" alt="Проект 4">
-  </a>
-  <a href="https://github.com/reader2k24/ANSIBLE-DEV-ENVIRONMENT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reader2k24&repo=ANSIBLE-DEV-ENVIRONMENT&theme=dracula" alt="Проект 5">
-  </a>
-  <a href="https://github.com/reader2k24/ANSIBLE-SECURITY">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reader2k24&repo=ANSIBLE-SECURITY&theme=dracula" alt="Проект 6">
-  </a>
-</p>
-
-
----
-
-## 🏆 Достижения
-
-![Трофеи GitHub](https://github-profile-trophy.vercel.app/?username=reader2k24&theme=dracula&column=8&margin-w=15&margin-h=15)
-
----
-
 ## 🚀 Чем я сейчас занимаюсь
 
 В настоящее время я работаю над улучшением своих навыков в Kubernetes и изучаю новые подходы к автоматизации инфраструктуры. Я активно участвую в проектах с открытым исходным кодом и стремлюсь к совершенствованию своих знаний в области DevOps.
