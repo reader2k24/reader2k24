@@ -53,6 +53,12 @@
   <a href="https://github.com/reader2k24/OPENSSL3-and-PYTHON">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=reader2k24&repo=OPENSSL3-and-PYTHON&theme=dracula" alt="Проект 4">
   </a>
+  <a href="https://github.com/reader2k24/ANSIBLE-DEV-ENVIRONMENT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reader2k24&repo=ANSIBLE-DEV-ENVIRONMENT&theme=dracula" alt="Проект 5">
+  </a>
+  <a href="https://github.com/reader2k24/ANSIBLE-SECURITY">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reader2k24&repo=ANSIBLE-SECURITY&theme=dracula" alt="Проект 6">
+  </a>
 </p>
 
 
